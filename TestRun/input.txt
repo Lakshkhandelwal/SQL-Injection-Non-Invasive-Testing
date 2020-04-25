@@ -1,0 +1,3 @@
+http://test-site1.com/page.php?id=1
+https://test-site2.org/detail.php?id=1
+https://test-site3.in/pages.php?id=1&param=2
